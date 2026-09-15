@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @audhyno
-- 👀 I’m interested in Gaming and watching anime
-- 🌱 I’m currently learning about HTML
+- 👀 I’m interested in Gaming and Digital Currency
+- 🌱 I’m currently learning about AI
 - 💞️ I’m looking to collaborate on the future with many people
 - 😄 Pronouns: Dee
 - ⚡ Fun fact: I'm a newbie:)
