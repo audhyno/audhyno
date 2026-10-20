@@ -41,10 +41,10 @@ philosophy: Clean Architecture • Fluid 60fps UX • Minimalist Aesthetics
 ```
 
 - 🌐 **Web Technologies**: Crafting dynamic, high-performance web applications with Next.js, React 19, and Tailwind CSS.
-- 🎨 **3D & Creative Coding**: Building interactive 3D worlds with Three.js, React Three Fiber, and Framer Motion.
+- 🎨 **3D & Creative Coding**: Building interactive 3D worlds with Three.js, React Three Fiber, and Framer Motion using AI optimization
 - 🎮 **Game Systems Engineering**: Architecting modular, secure client-server game systems and procedural levels using Luau.
 - 🎬 **Programmatic Media**: Generating dynamic programmatic video assets with Remotion and TypeScript.
-- 💡 **Passion**: Exploring cutting-edge tech & shipping experimental web & game prototypes.
+- 💡 **Passion**: Exploring cutting-edge tech & shipping experimental web development.
 
 ---
 
