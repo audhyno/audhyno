@@ -2,7 +2,7 @@
 
   <!-- Header Typing Banner -->
   <a href="https://github.com/audhyno">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Hi%2C+I'm+Audhyno+%F0%9F%91%8B;Creative+Developer+%26+Software+Engineer;Crafting+Interactive+3D+Web+Experiences;Architecting+Modular+Game+Systems+(Luau)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Hi%2C+I'm+Audhyno+%F0%9F%91%8B;Creative+Developer+%26+Software+Engineer;Crafting+Interactive+Web+Experiences;Architecting+Roblox+Game+Systems+(Luau)" alt="Typing SVG" />
   </a>
 
   <p align="center">
