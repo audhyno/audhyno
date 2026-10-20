@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Focused on modern web engineering, 3D interactive interfaces, and performant game architectures.</strong>
+    <strong>Focused on modern web engineering, C++ hardware logic, AI-assisted workflows, and digital media production.</strong>
   </p>
 
   <!-- Quick Social Badges -->
@@ -32,20 +32,20 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Audhyno
-pronouns: Dee
-role: Creative Full-Stack Developer & Systems Builder
-interests: [3D Web Graphics, AI & Game Architecture, Creative Coding]
-currently_learning: [Generative AI & LLMs, Advanced Shaders / Three.js]
-philosophy: Clean Architecture • Fluid 60fps UX • Minimalist Aesthetics
+name: Dude Audhyno Danarto
+alias: Audhyno
+role: Creative Technologist & Student Developer
+organization: Club President @ Ganesha-IT (SMAN 1 Pontianak)
+interests: [Web Engineering, AI & LLM Workflows, Hardware/IoT Logic, FinTech & Market Analysis]
+currently_learning: [Full-Stack Web Architecture, Computer Science & Information Systems, Quantitative Analysis]
+philosophy: Systems Thinking • Clean UI/UX • Continuous Optimization
 ```
 
-- 🌐 **Web Technologies**: Crafting dynamic, high-performance web applications with Next.js, React 19, and Tailwind CSS.
-- 🎨 **3D & Creative Coding**: Building interactive 3D worlds with Three.js, React Three Fiber, and Framer Motion using AI optimization
-- 🎮 **Game Systems Engineering**: Architecting modular, secure client-server game systems and procedural levels using Luau.
-- 🎬 **Programmatic Media**: Generating dynamic programmatic video assets with Remotion and TypeScript.
-- 💡 **Passion**: Exploring cutting-edge tech & shipping experimental web development.
-
+- 🌐 **Web Engineering:** Crafting responsive, modern web interfaces and interactive digital experiences using HTML5, CSS3, JavaScript, and modern UI frameworks.
+- ⚡ **Hardware & Systems Logic:** Programming microcontroller logic with C++ and Arduino, applying physics and systems-thinking to build functional hardware prototypes (*AquaVac*).
+- 📈 **Data & Market Analysis:** Exploring financial markets and time-series data patterns using technical indicators (*EMA 20, Supertrend*) and structured business modeling.
+- 🎬 **Creative Media & Leadership:** Leading web development workshops as President of **Ganesha IT Club** & directing end-to-end digital film productions (*ONE-4K*).
+- 💡 **Passion:** Bridging code, data patterns, and visual storytelling through AI-accelerated workflows to build impactful technology.
 ---
 
 ### 🛠️ Tech Stack & Tooling
